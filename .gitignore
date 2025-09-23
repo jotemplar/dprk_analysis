@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Captured Data
+captured_data/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Output Files
+*.xlsx
+*.csv
+dprk_*.html
+dprk_*.json
+
+# Backup Files
+*.bak
+*.backup
+*_backup_*
+
+# Temporary Files
+*.tmp
+temp/
+tmp/
+
+# Reports
+reports/
+output/
+
+# Cache
+.cache/
+*.cache
+
+# Ollama Models
+models/
+
+# PostgreSQL
+*.sql
+!init_database.sql

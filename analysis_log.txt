@@ -1,0 +1,797 @@
+============================================================
+ANALYZING REMAINING IMAGES
+============================================================
+
+📊 Found 196 unanalyzed images
+⏱️  Estimated time: 81.7 minutes
+
+Analyze all 196 images? (y/n/number): 
+🔍 Starting analysis of 196 images...
+
+[1/196] Analyzing 2025-09-20_region_582157e31a13_112236.webp
+   ✓ Image analyzed in 20.1s
+   ✓ Analysis saved - Concern: low
+
+[2/196] Analyzing 2025-09-20_region_cb09312609c5_112237.jpg
+   ✓ Image analyzed in 10.3s
+   ✓ Analysis saved - Concern: low
+
+[3/196] Analyzing 2025-09-20_military_04e92c81fee8_112248.png
+   ✓ Image analyzed in 9.8s
+   ✓ Analysis saved - Concern: low
+
+[4/196] Analyzing 2025-09-20_military_ba6d2e3a349f_112249.jpg
+   ✓ Image analyzed in 9.0s
+   ✓ Analysis saved - Concern: low
+
+[5/196] Analyzing 2025-09-20_military_f659229d0ee1_112251.jpg
+   ✓ Image analyzed in 9.5s
+   ✓ Analysis saved - Concern: low
+
+[6/196] Analyzing 2025-09-20_military_df93e94980ab_112249.jpg
+   ✓ Image analyzed in 8.6s
+   ✓ Analysis saved - Concern: low
+
+[7/196] Analyzing 2025-09-20_military_1b9cc493d1a4_112250.jpg
+   ✓ Image analyzed in 10.2s
+   ✓ Analysis saved - Concern: low
+
+[8/196] Analyzing 2025-09-20_region_582157e31a13_113227.webp
+   ✓ Image analyzed in 8.4s
+   ✓ Analysis saved - Concern: low
+
+[9/196] Analyzing 2025-09-20_region_cb09312609c5_113227.jpg
+   ✓ Image analyzed in 8.6s
+   ✓ Analysis saved - Concern: low
+
+[10/196] Analyzing 2025-09-20_military_04e92c81fee8_113328.png
+   ✓ Image analyzed in 9.0s
+   ✓ Analysis saved - Concern: low
+
+[11/196] Analyzing 2025-09-20_military_ba6d2e3a349f_113328.jpg
+   ✓ Image analyzed in 10.3s
+   ✓ Analysis saved - Concern: low
+
+[12/196] Analyzing 2025-09-20_military_f659229d0ee1_113329.jpg
+   ✓ Image analyzed in 10.8s
+   ✓ Analysis saved - Concern: low
+
+[13/196] Analyzing 2025-09-20_military_df93e94980ab_113329.jpg
+   ✓ Image analyzed in 13.5s
+   ✓ Analysis saved - Concern: low
+
+[14/196] Analyzing 2025-09-20_military_1b9cc493d1a4_113330.jpg
+   ✓ Image analyzed in 9.0s
+   ✓ Analysis saved - Concern: low
+
+[15/196] Analyzing 2025-09-20_region_582157e31a13_114506.webp
+   ✓ Image analyzed in 9.7s
+   ✓ Analysis saved - Concern: low
+
+[16/196] Analyzing 2025-09-20_region_cb09312609c5_114506.jpg
+   ✓ Image analyzed in 9.5s
+   ✓ Analysis saved - Concern: low
+
+[17/196] Analyzing 2025-09-20_military_04e92c81fee8_114608.png
+   ✓ Image analyzed in 8.5s
+   ✓ Analysis saved - Concern: low
+
+[18/196] Analyzing 2025-09-20_military_ba6d2e3a349f_114607.jpg
+   ✓ Image analyzed in 10.4s
+   ✓ Analysis saved - Concern: low
+
+[19/196] Analyzing 2025-09-20_military_f659229d0ee1_114609.jpg
+   ✓ Image analyzed in 11.9s
+   ✓ Analysis saved - Concern: low
+
+[20/196] Analyzing 2025-09-20_military_df93e94980ab_114609.jpg
+   ✓ Image analyzed in 9.3s
+   ✓ Analysis saved - Concern: low
+
+[21/196] Analyzing 2025-09-20_military_1b9cc493d1a4_114609.jpg
+   ✓ Image analyzed in 9.7s
+   ✓ Analysis saved - Concern: low
+
+[22/196] Analyzing 2025-09-20_region_582157e31a13_114747.webp
+   ✓ Image analyzed in 10.6s
+   ✓ Analysis saved - Concern: low
+
+[23/196] Analyzing 2025-09-20_region_cb09312609c5_114747.jpg
+   ✓ Image analyzed in 8.1s
+   ✓ Analysis saved - Concern: low
+
+[24/196] Analyzing 2025-09-20_military_04e92c81fee8_114849.png
+   ✓ Image analyzed in 9.7s
+   ✓ Analysis saved - Concern: low
+
+[25/196] Analyzing 2025-09-20_military_ba6d2e3a349f_114849.jpg
+   ✓ Image analyzed in 10.3s
+   ✓ Analysis saved - Concern: low
+
+[26/196] Analyzing 2025-09-20_military_f659229d0ee1_114850.jpg
+   ✓ Image analyzed in 9.9s
+   ✓ Analysis saved - Concern: low
+
+[27/196] Analyzing 2025-09-20_military_df93e94980ab_114850.jpg
+   ✓ Image analyzed in 11.4s
+   ✓ Analysis saved - Concern: low
+
+[28/196] Analyzing 2025-09-20_military_1b9cc493d1a4_114850.jpg
+   ✓ Image analyzed in 9.0s
+   ✓ Analysis saved - Concern: low
+
+[29/196] Analyzing 2025-09-20_region_98e0f6126f25_114953.jpg
+   ✓ Image analyzed in 10.0s
+   ✓ Analysis saved - Concern: low
+
+[30/196] Analyzing 2025-09-20_region_c95a83cb3bd7_114953.jpg
+   ✓ Image analyzed in 10.8s
+   ✓ Analysis saved - Concern: low
+
+[31/196] Analyzing 2025-09-20_region_0fbcdd70de6d_114953.jpg
+   ✓ Image analyzed in 9.9s
+   ✓ Analysis saved - Concern: low
+
+[32/196] Analyzing 2025-09-20_region_d2ac2fedad42_114955.jpg
+   ✓ Image analyzed in 8.6s
+   ✓ Analysis saved - Concern: low
+
+[33/196] Analyzing 2025-09-20_region_20d37c38c61f_114953.png
+   ✓ Image analyzed in 8.5s
+   ✓ Analysis saved - Concern: low
+
+[34/196] Analyzing 2025-09-20_region_582157e31a13_115437.webp
+   ✓ Image analyzed in 10.1s
+   ✓ Analysis saved - Concern: low
+
+[35/196] Analyzing 2025-09-20_region_cb09312609c5_115437.jpg
+   ✓ Image analyzed in 9.2s
+   ✓ Analysis saved - Concern: low
+
+[36/196] Analyzing 2025-09-20_military_04e92c81fee8_115542.png
+   ✓ Image analyzed in 9.2s
+   ✓ Analysis saved - Concern: low
+
+[37/196] Analyzing 2025-09-20_military_ba6d2e3a349f_115542.jpg
+   ✓ Image analyzed in 9.6s
+   ✓ Analysis saved - Concern: low
+
+[38/196] Analyzing 2025-09-20_military_f659229d0ee1_115543.jpg
+   ✓ Image analyzed in 9.1s
+   ✓ Analysis saved - Concern: low
+
+[39/196] Analyzing 2025-09-20_military_df93e94980ab_115543.jpg
+   ✓ Image analyzed in 8.9s
+   ✓ Analysis saved - Concern: low
+
+[40/196] Analyzing 2025-09-20_military_1b9cc493d1a4_115543.jpg
+   ✓ Image analyzed in 8.9s
+   ✓ Analysis saved - Concern: low
+
+[41/196] Analyzing 2025-09-20_region_582157e31a13_120003.webp
+   ✓ Image analyzed in 7.3s
+   ✓ Analysis saved - Concern: low
+
+[42/196] Analyzing 2025-09-20_region_cb09312609c5_120003.jpg
+   ✓ Image analyzed in 9.2s
+   ✓ Analysis saved - Concern: low
+
+[43/196] Analyzing 2025-09-20_military_04e92c81fee8_120103.png
+   ✓ Image analyzed in 12.5s
+   ✓ Analysis saved - Concern: low
+
+[44/196] Analyzing 2025-09-20_military_ba6d2e3a349f_120103.jpg
+   ✓ Image analyzed in 10.8s
+   ✓ Analysis saved - Concern: low
+
+[45/196] Analyzing 2025-09-20_military_f659229d0ee1_120104.jpg
+   ✓ Image analyzed in 9.1s
+   ✓ Analysis saved - Concern: low
+
+[46/196] Analyzing 2025-09-20_military_df93e94980ab_120104.jpg
+   ✓ Image analyzed in 10.4s
+   ✓ Analysis saved - Concern: low
+
+[47/196] Analyzing 2025-09-20_military_1b9cc493d1a4_120105.jpg
+   ✓ Image analyzed in 11.1s
+   ✓ Analysis saved - Concern: high
+
+[48/196] Analyzing 2025-09-20_region_98e0f6126f25_120211.jpg
+   ✓ Image analyzed in 8.8s
+   ✓ Analysis saved - Concern: low
+
+[49/196] Analyzing 2025-09-20_region_c95a83cb3bd7_120211.jpg
+   ✓ Image analyzed in 9.5s
+   ✓ Analysis saved - Concern: low
+
+[50/196] Analyzing 2025-09-20_region_0fbcdd70de6d_120211.jpg
+   ✓ Image analyzed in 9.4s
+   ✓ Analysis saved - Concern: low
+
+[51/196] Analyzing 2025-09-20_region_d2ac2fedad42_120211.jpg
+   ✓ Image analyzed in 12.7s
+   ✓ Analysis saved - Concern: low
+
+[52/196] Analyzing 2025-09-20_region_20d37c38c61f_120211.png
+   ✓ Image analyzed in 9.3s
+   ✓ Analysis saved - Concern: low
+
+[53/196] Analyzing 2025-09-20_region_582157e31a13_120454.webp
+   ✓ Image analyzed in 7.4s
+   ✓ Analysis saved - Concern: low
+
+[54/196] Analyzing 2025-09-20_region_cb09312609c5_120454.jpg
+   ✓ Image analyzed in 9.9s
+   ✓ Analysis saved - Concern: low
+
+[55/196] Analyzing 2025-09-20_military_04e92c81fee8_120554.png
+   ✓ Image analyzed in 10.6s
+   ✓ Analysis saved - Concern: low
+
+[56/196] Analyzing 2025-09-20_military_ba6d2e3a349f_120555.jpg
+   ✓ Image analyzed in 8.9s
+   ✓ Analysis saved - Concern: low
+
+[57/196] Analyzing 2025-09-20_military_f659229d0ee1_120555.jpg
+   ✓ Image analyzed in 10.4s
+   ✓ Analysis saved - Concern: low
+
+[58/196] Analyzing 2025-09-20_military_df93e94980ab_120556.jpg
+   ✓ Image analyzed in 13.1s
+   ✓ Analysis saved - Concern: low
+
+[59/196] Analyzing 2025-09-20_military_1b9cc493d1a4_120556.jpg
+   ✓ Image analyzed in 8.7s
+   ✓ Analysis saved - Concern: low
+
+[60/196] Analyzing 2025-09-20_region_98e0f6126f25_120657.jpg
+   ✓ Image analyzed in 11.4s
+   ✓ Analysis saved - Concern: low
+
+[61/196] Analyzing 2025-09-20_region_c95a83cb3bd7_120657.jpg
+   ✓ Image analyzed in 10.6s
+   ✓ Analysis saved - Concern: low
+
+[62/196] Analyzing 2025-09-20_region_0fbcdd70de6d_120657.jpg
+   ✓ Image analyzed in 11.0s
+   ✓ Analysis saved - Concern: low
+
+[63/196] Analyzing 2025-09-20_region_d2ac2fedad42_120657.jpg
+   ✓ Image analyzed in 10.1s
+   ✓ Analysis saved - Concern: low
+
+[64/196] Analyzing 2025-09-20_region_20d37c38c61f_120657.png
+   ✓ Image analyzed in 10.2s
+   ✓ Analysis saved - Concern: low
+
+[65/196] Analyzing 2025-09-20_general_3aaeae445c91_120804.jpg
+   ✓ Image analyzed in 9.3s
+   ✓ Analysis saved - Concern: low
+
+[66/196] Analyzing 2025-09-20_general_e52882177173_120804.webp
+   ✓ Image analyzed in 9.7s
+   ✓ Analysis saved - Concern: low
+
+[67/196] Analyzing 2025-09-20_general_230a2b326b63_120804.jpg
+   ✓ Image analyzed in 11.8s
+   ✓ Analysis saved - Concern: low
+
+[68/196] Analyzing 2025-09-20_general_9531ae77fefe_120804.webp
+   ✓ Image analyzed in 10.1s
+   ✓ Analysis saved - Concern: low
+
+[69/196] Analyzing 2025-09-20_labour_type_690244c5f495_120919.jpg
+   ✓ Image analyzed in 10.6s
+   ✓ Analysis saved - Concern: low
+
+[70/196] Analyzing 2025-09-20_labour_type_b58d28d84d94_120919.jpg
+   ✓ Image analyzed in 8.7s
+   ✓ Analysis saved - Concern: low
+
+[71/196] Analyzing 2025-09-20_labour_type_76d853ae33bb_120920.jpg
+   ✓ Image analyzed in 9.4s
+   ✓ Analysis saved - Concern: low
+
+[72/196] Analyzing 2025-09-20_labour_type_07e079e7102f_120920.jpg
+   ✓ Image analyzed in 8.5s
+   ✓ Analysis saved - Concern: low
+
+[73/196] Analyzing 2025-09-20_general_7d6648fd221d_121143.jpg
+   ✓ Image analyzed in 9.1s
+   ✓ Analysis saved - Concern: low
+
+[74/196] Analyzing 2025-09-20_general_70f43e26d27f_121143.webp
+   ✓ Image analyzed in 8.6s
+   ✓ Analysis saved - Concern: low
+
+[75/196] Analyzing 2025-09-20_general_287bcd3bd885_121145.jpg
+   ✓ Image analyzed in 9.3s
+   ✓ Analysis saved - Concern: low
+
+[76/196] Analyzing 2025-09-20_general_146078f42d25_121145.jpg
+   ✓ Image analyzed in 8.6s
+   ✓ Analysis saved - Concern: low
+
+[77/196] Analyzing 2025-09-20_military_cb2c3f72fb9d_121250.jpg
+   ✓ Image analyzed in 10.1s
+   ✓ Analysis saved - Concern: low
+
+[78/196] Analyzing 2025-09-20_military_e31787a39f54_121251.jpg
+   ✓ Image analyzed in 12.4s
+   ✓ Analysis saved - Concern: low
+
+[79/196] Analyzing 2025-09-20_military_5259bc3a567c_121250.jpg
+   ✓ Image analyzed in 9.1s
+   ✓ Analysis saved - Concern: low
+
+[80/196] Analyzing 2025-09-20_military_4f7ce90109bc_121251.jpg
+   ✓ Image analyzed in 11.6s
+   ✓ Analysis saved - Concern: low
+
+[81/196] Analyzing 2025-09-20_military_2449fbd74017_121250.jpg
+   ✓ Image analyzed in 9.2s
+   ✓ Analysis saved - Concern: low
+
+[82/196] Analyzing 2025-09-20_military_57f97cf73099_121503.jpg
+   ✓ Image analyzed in 9.1s
+   ✓ Analysis saved - Concern: low
+
+[83/196] Analyzing 2025-09-20_military_afe9154f4286_121503.jpg
+   ✓ Image analyzed in 7.8s
+   ✓ Analysis saved - Concern: low
+
+[84/196] Analyzing 2025-09-20_military_cb93f2d1f9c7_121503.webp
+   ✓ Image analyzed in 10.1s
+   ✓ Analysis saved - Concern: low
+
+[85/196] Analyzing 2025-09-20_community_6f1c31f0e41a_121606.jpg
+   ✓ Image analyzed in 11.0s
+   ✓ Analysis saved - Concern: low
+
+[86/196] Analyzing 2025-09-20_community_f58aed04ec5f_121606.jpg
+   ✓ Image analyzed in 7.9s
+   ✓ Analysis saved - Concern: low
+
+[87/196] Analyzing 2025-09-20_community_c314eafdb113_121606.jpg
+   ✓ Image analyzed in 12.6s
+   ✓ Analysis saved - Concern: low
+
+[88/196] Analyzing 2025-09-20_community_aeb351c265af_121608.jpg
+   ✓ Image analyzed in 11.1s
+   ✓ Analysis saved - Concern: low
+
+[89/196] Analyzing 2025-09-20_general_641352670bb6_121716.jpg
+   ✓ Image analyzed in 10.4s
+   ✓ Analysis saved - Concern: low
+
+[90/196] Analyzing 2025-09-20_general_7d6648fd221d_121716.jpg
+   ✓ Image analyzed in 9.1s
+   ✓ Analysis saved - Concern: low
+
+[91/196] Analyzing 2025-09-20_general_3566da88aa6f_121716.jpg
+   ✓ Image analyzed in 9.4s
+   ✓ Analysis saved - Concern: low
+
+[92/196] Analyzing 2025-09-20_general_d2f60311a139_121716.webp
+   ✓ Image analyzed in 8.8s
+   ✓ Analysis saved - Concern: low
+
+[93/196] Analyzing 2025-09-20_general_451c97b2179e_121822.jpg
+   ✓ Image analyzed in 9.0s
+   ✓ Analysis saved - Concern: low
+
+[94/196] Analyzing 2025-09-20_general_0fc44f45569f_121823.jpg
+   ✓ Image analyzed in 11.6s
+   ✓ Analysis saved - Concern: low
+
+[95/196] Analyzing 2025-09-20_hybrid_e1e081c899a2_121921.jpg
+   ✓ Image analyzed in 9.4s
+   ✓ Analysis saved - Concern: low
+
+[96/196] Analyzing 2025-09-20_hybrid_54db4176644d_121921.jpg
+   ✓ Image analyzed in 10.3s
+   ✓ Analysis saved - Concern: low
+
+[97/196] Analyzing 2025-09-20_hybrid_7328de9b0bf4_121922.jpg
+   ✓ Image analyzed in 9.4s
+   ✓ Analysis saved - Concern: low
+
+[98/196] Analyzing 2025-09-20_region_100eecd0d9f0_122025.jpg
+   ✓ Image analyzed in 9.7s
+   ✓ Analysis saved - Concern: low
+
+[99/196] Analyzing 2025-09-20_region_e13e14abd171_122025.jpg
+   ✓ Image analyzed in 12.0s
+   ✓ Analysis saved - Concern: low
+
+[100/196] Analyzing 2025-09-20_region_5ab4f104d975_122025.jpg
+   ✓ Image analyzed in 10.2s
+   ✓ Analysis saved - Concern: low
+
+[101/196] Analyzing 2025-09-20_region_10a5283a577b_122025.jpg
+   ✓ Image analyzed in 8.9s
+   ✓ Analysis saved - Concern: low
+
+[102/196] Analyzing 2025-09-20_region_61679ac4fe6e_122025.jpg
+   ✓ Image analyzed in 8.3s
+   ✓ Analysis saved - Concern: low
+
+[103/196] Analyzing 2025-09-20_military_75e42238ea7a_122129.webp
+   ✓ Image analyzed in 10.9s
+   ✓ Analysis saved - Concern: low
+
+[104/196] Analyzing 2025-09-20_military_7ea445eb5fc4_122128.jpg
+   ✓ Image analyzed in 10.3s
+   ✓ Analysis saved - Concern: low
+
+[105/196] Analyzing 2025-09-20_military_b420283673d5_122128.jpg
+   ✓ Image analyzed in 9.1s
+   ✓ Analysis saved - Concern: low
+
+[106/196] Analyzing 2025-09-20_military_fd1d7ad59511_122129.jpg
+   ✓ Image analyzed in 8.1s
+   ✓ Analysis saved - Concern: low
+
+[107/196] Analyzing 2025-09-20_military_16ff90811afd_122130.jpg
+   ✓ Image analyzed in 10.9s
+   ✓ Analysis saved - Concern: low
+
+[108/196] Analyzing 2025-09-20_labour_type_27464f32eb5e_122236.jpg
+   ✓ Image analyzed in 9.6s
+   ✓ Analysis saved - Concern: low
+
+[109/196] Analyzing 2025-09-20_labour_type_3228d6c087f0_122236.jpg
+   ✓ Image analyzed in 7.7s
+   ✓ Analysis saved - Concern: low
+
+[110/196] Analyzing 2025-09-20_labour_type_58efc679827f_122237.jpg
+   ✓ Image analyzed in 8.8s
+   ✓ Analysis saved - Concern: low
+
+[111/196] Analyzing 2025-09-20_general_8114ff56669c_122342.jpg
+   ✓ Image analyzed in 12.6s
+   ✓ Analysis saved - Concern: low
+
+[112/196] Analyzing 2025-09-20_general_1f39534956a3_122342.jpg
+   ✓ Image analyzed in 10.1s
+   ✓ Analysis saved - Concern: low
+
+[113/196] Analyzing 2025-09-20_general_461417df68dd_122342.jpg
+   ✓ Image analyzed in 7.0s
+   ✓ Analysis saved - Concern: low
+
+[114/196] Analyzing 2025-09-20_general_03025aa626da_122342.webp
+   ✓ Image analyzed in 8.6s
+   ✓ Analysis saved - Concern: low
+
+[115/196] Analyzing 2025-09-20_general_9a584320f858_122343.webp
+   ✓ Image analyzed in 8.9s
+   ✓ Analysis saved - Concern: low
+
+[116/196] Analyzing 2025-09-20_general_609c668c2dbe_122441.webp
+   ✓ Image analyzed in 10.4s
+   ✓ Analysis saved - Concern: low
+
+[117/196] Analyzing 2025-09-20_general_890369c806e0_122441.webp
+   ✓ Image analyzed in 9.7s
+   ✓ Analysis saved - Concern: low
+
+[118/196] Analyzing 2025-09-20_general_4ac496263f00_122441.jpg
+   ✓ Image analyzed in 9.5s
+   ✓ Analysis saved - Concern: low
+
+[119/196] Analyzing 2025-09-20_general_3ecf623da92a_122442.jpg
+   ✓ Image analyzed in 9.7s
+   ✓ Analysis saved - Concern: low
+
+[120/196] Analyzing 2025-09-20_general_dc6d4277e75e_122442.jpg
+   ✓ Image analyzed in 11.1s
+   ✓ Analysis saved - Concern: low
+
+[121/196] Analyzing 2025-09-20_hybrid_b9085467484c_122551.jpg
+   ✓ Image analyzed in 9.5s
+   ✓ Analysis saved - Concern: low
+
+[122/196] Analyzing 2025-09-20_hybrid_1d22ad8c2f3b_122551.jpg
+   ✓ Image analyzed in 8.8s
+   ✓ Analysis saved - Concern: low
+
+[123/196] Analyzing 2025-09-20_hybrid_e83febc3fe5e_122552.jpg
+   ✓ Image analyzed in 9.3s
+   ✓ Analysis saved - Concern: low
+
+[124/196] Analyzing 2025-09-20_hybrid_4ac496263f00_122551.jpg
+   ✓ Image analyzed in 8.3s
+   ✓ Analysis saved - Concern: low
+
+[125/196] Analyzing 2025-09-20_community_e1375a45ef3b_122718.jpg
+   ✓ Image analyzed in 8.8s
+   ✓ Analysis saved - Concern: low
+
+[126/196] Analyzing 2025-09-20_community_4e14b038d8dc_122719.jpg
+   ✓ Image analyzed in 9.3s
+   ✓ Analysis saved - Concern: low
+
+[127/196] Analyzing 2025-09-20_community_7e11de022d72_122718.jpg
+   ✓ Image analyzed in 9.3s
+   ✓ Analysis saved - Concern: low
+
+[128/196] Analyzing 2025-09-20_community_44905a3329c1_122720.jpg
+   ✓ Image analyzed in 10.4s
+   ✓ Analysis saved - Concern: low
+
+[129/196] Analyzing 2025-09-20_general_3ab84f863d4a_122851.jpg
+   ✓ Image analyzed in 9.5s
+   ✓ Analysis saved - Concern: low
+
+[130/196] Analyzing 2025-09-20_general_b0936a1d82e4_122851.webp
+   ✓ Image analyzed in 9.2s
+   ✓ Analysis saved - Concern: low
+
+[131/196] Analyzing 2025-09-20_general_514fca4c1a44_122851.jpg
+   ✓ Image analyzed in 9.6s
+   ✓ Analysis saved - Concern: low
+
+[132/196] Analyzing 2025-09-20_general_a1611ed7ffae_122852.jpg
+   ✓ Image analyzed in 9.3s
+   ✓ Analysis saved - Concern: low
+
+[133/196] Analyzing 2025-09-20_general_77290ff04953_122852.jpg
+   ✓ Image analyzed in 9.0s
+   ✓ Analysis saved - Concern: low
+
+[134/196] Analyzing 2025-09-20_general_9db0872cbd2f_123022.jpg
+   ✓ Image analyzed in 9.6s
+   ✓ Analysis saved - Concern: low
+
+[135/196] Analyzing 2025-09-20_general_68d98dbc62b9_123022.jpg
+   ✓ Image analyzed in 9.1s
+   ✓ Analysis saved - Concern: low
+
+[136/196] Analyzing 2025-09-20_general_9f2142863d87_123023.jpg
+   ✓ Image analyzed in 11.4s
+   ✓ Analysis saved - Concern: low
+
+[137/196] Analyzing 2025-09-20_general_5d7f3eb8f598_123156.jpg
+   ✓ Image analyzed in 10.8s
+   ✓ Analysis saved - Concern: low
+
+[138/196] Analyzing 2025-09-20_general_715b3a8b64e2_123156.webp
+   ✓ Image analyzed in 7.2s
+   ✓ Analysis saved - Concern: low
+
+[139/196] Analyzing 2025-09-20_general_181a347e1f17_123158.jpg
+   ✓ Image analyzed in 8.1s
+   ✓ Analysis saved - Concern: low
+
+[140/196] Analyzing 2025-09-20_military_840044588cb1_123309.jpg
+   ✓ Image analyzed in 9.5s
+   ✓ Analysis saved - Concern: critical
+
+[141/196] Analyzing 2025-09-20_military_7705116f1aa9_123309.jpg
+   ✓ Image analyzed in 8.4s
+   ✓ Analysis saved - Concern: low
+
+[142/196] Analyzing 2025-09-20_military_1e87a2aad7f0_123310.jpg
+   ✓ Image analyzed in 9.3s
+   ✓ Analysis saved - Concern: low
+
+[143/196] Analyzing 2025-09-20_military_a3b1b6822355_123311.jpg
+   ✓ Image analyzed in 10.2s
+   ✓ Analysis saved - Concern: low
+
+[144/196] Analyzing 2025-09-20_labour_type_32cd2e42f820_123423.jpg
+   ✓ Image analyzed in 8.2s
+   ✓ Analysis saved - Concern: low
+
+[145/196] Analyzing 2025-09-20_general_48fa229ac99e_123527.jpg
+   ✓ Image analyzed in 8.8s
+   ✓ Analysis saved - Concern: low
+
+[146/196] Analyzing 2025-09-20_general_1c9123851b59_123527.jpg
+   ✓ Image analyzed in 13.4s
+   ✓ Analysis saved - Concern: low
+
+[147/196] Analyzing 2025-09-20_general_68f8e2e159ba_123529.jpg
+   ✓ Image analyzed in 9.1s
+   ✓ Analysis saved - Concern: low
+
+[148/196] Analyzing 2025-09-20_general_a58dfc2a172a_123527.jpg
+   ✓ Image analyzed in 8.9s
+   ✓ Analysis saved - Concern: low
+
+[149/196] Analyzing 2025-09-20_general_99b92a4f76f9_123527.jpg
+   ✓ Image analyzed in 8.1s
+   ✓ Analysis saved - Concern: low
+
+[150/196] Analyzing 2025-09-20_general_3cb9690ac4a7_123858.jpg
+   ✓ Image analyzed in 10.0s
+   ✓ Analysis saved - Concern: low
+
+[151/196] Analyzing 2025-09-20_general_3fb649b3837d_124025.jpg
+   ✓ Image analyzed in 7.3s
+   ✓ Analysis saved - Concern: low
+
+[152/196] Analyzing 2025-09-20_general_0eb083bfb7f4_124026.jpg
+   ✓ Image analyzed in 9.0s
+   ✓ Analysis saved - Concern: low
+
+[153/196] Analyzing 2025-09-20_general_ef2dafea95b4_124026.jpg
+   ✓ Image analyzed in 11.3s
+   ✓ Analysis saved - Concern: low
+
+[154/196] Analyzing 2025-09-20_general_b6d6cd92054b_124027.jpg
+   ✓ Image analyzed in 8.0s
+   ✓ Analysis saved - Concern: low
+
+[155/196] Analyzing 2025-09-20_general_35b667e7d44b_124137.jpg
+   ✓ Image analyzed in 8.2s
+   ✓ Analysis saved - Concern: low
+
+[156/196] Analyzing 2025-09-20_general_42182d90c19d_124248.jpg
+   ✓ Image analyzed in 9.1s
+   ✓ Analysis saved - Concern: low
+
+[157/196] Analyzing 2025-09-20_general_9191cad5fbc6_124247.jpg
+   ✓ Image analyzed in 7.3s
+   ✓ Analysis saved - Concern: low
+
+[158/196] Analyzing 2025-09-20_general_4549bb0b1613_124248.jpg
+   ✓ Image analyzed in 9.4s
+   ✓ Analysis saved - Concern: low
+
+[159/196] Analyzing 2025-09-20_general_387137ea9bd5_124248.jpg
+   ✓ Image analyzed in 9.6s
+   ✓ Analysis saved - Concern: low
+
+[160/196] Analyzing 2025-09-20_general_f8a802343054_124504.jpg
+   ✓ Image analyzed in 9.0s
+   ✓ Analysis saved - Concern: low
+
+[161/196] Analyzing 2025-09-20_general_982959136319_124504.jpg
+   ✓ Image analyzed in 10.2s
+   ✓ Analysis saved - Concern: low
+
+[162/196] Analyzing 2025-09-20_general_5ee72724d600_124618.jpg
+   ✓ Image analyzed in 8.1s
+   ✓ Analysis saved - Concern: low
+
+[163/196] Analyzing 2025-09-20_general_3a206a54f6bc_124617.jpg
+   ✓ Image analyzed in 8.6s
+   ✓ Analysis saved - Concern: low
+
+[164/196] Analyzing 2025-09-20_general_6a7746fe75ee_124617.jpg
+   ✓ Image analyzed in 8.7s
+   ✓ Analysis saved - Concern: low
+
+[165/196] Analyzing 2025-09-20_general_0821724cbd1a_124722.jpg
+   ✓ Image analyzed in 9.0s
+   ✓ Analysis saved - Concern: low
+
+[166/196] Analyzing 2025-09-20_general_fe18ada2941f_124722.jpg
+   ✓ Image analyzed in 9.5s
+   ✓ Analysis saved - Concern: low
+
+[167/196] Analyzing 2025-09-20_general_d04f3e23f8c6_124723.jpg
+   ✓ Image analyzed in 8.8s
+   ✓ Analysis saved - Concern: low
+
+[168/196] Analyzing 2025-09-20_general_ad28517124b6_124723.jpg
+   ✓ Image analyzed in 11.3s
+   ✓ Analysis saved - Concern: low
+
+[169/196] Analyzing 2025-09-20_general_c43b8586bbd1_124923.jpg
+   ✓ Image analyzed in 10.4s
+   ✓ Analysis saved - Concern: low
+
+[170/196] Analyzing 2025-09-20_general_741eee1e95da_124923.jpg
+   ✓ Image analyzed in 7.9s
+   ✓ Analysis saved - Concern: low
+
+[171/196] Analyzing 2025-09-20_general_e539cf396d87_124923.jpg
+   ✓ Image analyzed in 8.6s
+   ✓ Analysis saved - Concern: low
+
+[172/196] Analyzing 2025-09-20_general_7f4c97aa4557_125021.jpg
+   ✓ Image analyzed in 9.7s
+   ✓ Analysis saved - Concern: low
+
+[173/196] Analyzing 2025-09-20_general_b7c7542032bc_125021.jpg
+   ✓ Image analyzed in 8.8s
+   ✓ Analysis saved - Concern: low
+
+[174/196] Analyzing 2025-09-20_general_50fa6a6efc04_125021.jpg
+   ✓ Image analyzed in 8.3s
+   ✓ Analysis saved - Concern: low
+
+[175/196] Analyzing 2025-09-20_general_ba645aa61772_125022.jpg
+   ✓ Image analyzed in 8.9s
+   ✓ Analysis saved - Concern: low
+
+[176/196] Analyzing 2025-09-20_general_d29caf027471_125125.jpg
+   ✓ Image analyzed in 11.8s
+   ✓ Analysis saved - Concern: low
+
+[177/196] Analyzing 2025-09-20_general_6c3f247eedae_125125.jpg
+   ✓ Image analyzed in 8.0s
+   ✓ Analysis saved - Concern: low
+
+[178/196] Analyzing 2025-09-20_general_04ad6f5ae0ab_125126.jpg
+   ✓ Image analyzed in 8.3s
+   ✓ Analysis saved - Concern: low
+
+[179/196] Analyzing 2025-09-20_general_230075ea6a81_125126.jpg
+   ✓ Image analyzed in 8.7s
+   ✓ Analysis saved - Concern: low
+
+[180/196] Analyzing 2025-09-20_general_eae56036157c_125126.jpg
+   ✓ Image analyzed in 10.4s
+   ✓ Analysis saved - Concern: low
+
+[181/196] Analyzing 2025-09-20_labour_type_fe7d010c08de_125230.jpg
+   ✓ Image analyzed in 9.9s
+   ✓ Analysis saved - Concern: low
+
+[182/196] Analyzing 2025-09-20_labour_type_893ba5d274a7_125230.jpg
+   ✓ Image analyzed in 11.6s
+   ✓ Analysis saved - Concern: low
+
+[183/196] Analyzing 2025-09-20_labour_type_c814fe4a67a8_125231.jpg
+   ✓ Image analyzed in 9.8s
+   ✓ Analysis saved - Concern: low
+
+[184/196] Analyzing 2025-09-20_general_240ff58f0b33_125332.jpg
+   ✓ Image analyzed in 8.7s
+   ✓ Analysis saved - Concern: low
+
+[185/196] Analyzing 2025-09-20_general_1a2ffb794dea_125437.jpg
+   ✓ Image analyzed in 14.1s
+   ✓ Analysis saved - Concern: low
+
+[186/196] Analyzing 2025-09-20_general_b2f20a3ab905_125436.webp
+   ✓ Image analyzed in 8.1s
+   ✓ Analysis saved - Concern: low
+
+[187/196] Analyzing 2025-09-20_general_24b369f87675_125437.jpg
+   ✓ Image analyzed in 10.5s
+   ✓ Analysis saved - Concern: low
+
+[188/196] Analyzing 2025-09-20_general_83b8827ff008_125537.png
+   ✓ Image analyzed in 7.5s
+   ✓ Analysis saved - Concern: low
+
+[189/196] Analyzing 2025-09-20_general_1a0b477c1e48_125537.jpg
+   ✓ Image analyzed in 8.0s
+   ✓ Analysis saved - Concern: low
+
+[190/196] Analyzing 2025-09-20_general_cbdac2842f2d_125537.jpg
+   ✓ Image analyzed in 9.1s
+   ✓ Analysis saved - Concern: low
+
+[191/196] Analyzing 2025-09-20_general_8081f266a61e_125639.jpg
+   ✓ Image analyzed in 8.4s
+   ✓ Analysis saved - Concern: low
+
+[192/196] Analyzing 2025-09-20_general_a223418f4537_125739.jpg
+   ✓ Image analyzed in 9.7s
+   ✓ Analysis saved - Concern: low
+
+[193/196] Analyzing 2025-09-20_general_c25f8b23d0ba_125739.jpg
+   ✓ Image analyzed in 9.3s
+   ✓ Analysis saved - Concern: low
+
+[194/196] Analyzing 2025-09-20_general_fc8e4c4dfa63_125739.jpg
+   ✓ Image analyzed in 8.4s
+   ✓ Analysis saved - Concern: low
+
+[195/196] Analyzing 2025-09-20_general_cf28321e4c74_125739.jpg
+   ✓ Image analyzed in 10.6s
+   ✓ Analysis saved - Concern: low
+
+[196/196] Analyzing 2025-09-20_general_2a3cf532dc6e_125739.jpg
+   ✓ Image analyzed in 9.3s
+   ✓ Analysis saved - Concern: low
+
+============================================================
+✅ ANALYSIS COMPLETED
+============================================================

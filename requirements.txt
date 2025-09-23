@@ -1,0 +1,32 @@
+playwright
+
+# DPRK Image Capture System Requirements
+
+# Database
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+
+# Search APIs
+google-search-results==2.4.2
+
+# Web automation and scraping
+playwright==1.40.0
+beautifulsoup4==4.12.2
+
+# Async operations
+aiohttp==3.9.1
+asyncio==3.4.3
+
+# Image processing
+Pillow==10.1.0
+
+# Local LLM
+ollama>=0.1.17
+
+# Environment and utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Data processing
+pandas==2.1.4
+numpy==1.26.2

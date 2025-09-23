@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>NK_Abuse_Exploitation_Monitoring_Feeds</title>
+    <dateCreated>2025-09-20T12:00:00Z</dateCreated>
+    <ownerName>GIST-Research</ownerName>
+  </head>
+  <body>
+
+    <!-- 1) High-signal NK labor/abuse sources (photo-embedded longreads common) -->
+    <outline text="Daily NK (Labor / Workers)" title="Daily NK (Labor / Workers)">
+      <outline type="rss" text="Daily NK — English (site-wide)" title="Daily NK — English" xmlUrl="https://www.dailynk.com/english/feed" htmlUrl="https://www.dailynk.com/english/"/>
+      <outline type="rss" text="Daily NK — Tag: laborers" title="Daily NK — laborers tag" xmlUrl="https://www.dailynk.com/english/tag/laborers/feed" htmlUrl="https://www.dailynk.com/english/tag/laborers/"/>
+    </outline>
+
+    <!-- 2) Russian independent/expat with frequent photo embeds/credits -->
+    <outline text="The Moscow Times (photo-embedded explainers)" title="The Moscow Times">
+      <outline type="rss" text="Moscow Times — RSS hub" title="The Moscow Times — RSS page" xmlUrl="https://www.themoscowtimes.com/rss/news" htmlUrl="https://www.themoscowtimes.com/page/rss"/>
+    </outline>
+
+    <!-- 3) State/agency sources (for credited images; photo galleries exist, RSS often general) -->
+    <outline text="TASS / RIA (agency sources & photogalleries)" title="Agencies (RU)">
+      <!-- TASS: general RSS; many gallery posts appear in main feed -->
+      <outline type="rss" text="TASS — General News" title="TASS — General News" xmlUrl="https://tass.com/rss/v2.xml" htmlUrl="https://tass.com/"/>
+      <!-- RIA Novosti: photolents page (no stable public RSS for the photo lane; include page as a reminder) -->
+      <outline type="rss" text="(Bookmark) RIA — Photolents (photo lane, check for updates)" title="RIA — Photolents (no public RSS)" xmlUrl="https://ria.ru/photolents/" htmlUrl="https://ria.ru/photolents/"/>
+    </outline>
+
+    <!-- 4) International wires (public picture hubs; true picture feeds typically require authenticated products) -->
+    <outline text="International Wires (public picture hubs/bookmarks)" title="Wires">
+      <!-- Reuters public pictures landing (no public RSS; use as bookmark + Monitoring Feed keywords) -->
+      <outline type="rss" text="(Bookmark) Reuters — Pictures hub" title="Reuters Pictures (no public RSS)" xmlUrl="https://www.reuters.com/pictures/" htmlUrl="https://www.reuters.com/pictures/"/>
+      <!-- AP Images Blog exposes an RSS on many WP setups; keep /?format=rss and /feed as fallbacks -->
+      <outline type="rss" text="AP Images Blog — RSS (try ?format=rss)" title="AP Images Blog (RSS may be https://apimagesblog.com/?format=rss or /feed)" xmlUrl="https://apimagesblog.com/?format=rss" htmlUrl="https://apimagesblog.com/"/>
+    </outline>
+
+    <!-- 5) Regional Russia: Primorsky Krai / Vladivostok / Aggregators with RSS -->
+    <outline text="Regional Russia — Far East (Primorsky / Vladivostok)" title="Primorsky / Vladivostok">
+      <!-- Regional aggregator with RSS channels (curates many local sources) -->
+      <outline type="rss" text="Bezformata — Vladivostok/Primorsky news stream" title="Bezformata Vladivostok/Primorye" xmlUrl="https://vladivostok.bezformata.com/rss/" htmlUrl="https://vladivostok.bezformata.com/"/>
+      <!-- Primorsky Krai governmental portal (bookmark; add site-level Monitoring Feed keywords if no RSS is found) -->
+      <outline type="rss" text="(Bookmark) Primorsky Krai government news" title="Primorye.ru News (check for RSS on-page)" xmlUrl="https://primorye.ru/news/" htmlUrl="https://primorye.ru/news/"/>
+    </outline>
+
+    <!-- 6) Regional Russia: Kursk (official + city portals are inconsistent—use aggregators + monitoring) -->
+    <outline text="Regional Russia — Kursk" title="Kursk">
+      <!-- City/region portal (bookmark; add Monitoring Feed) -->
+      <outline type="rss" text="(Bookmark) Kursk city/region news" title="Kursk.ru News (check for RSS on-page)" xmlUrl="https://kursk.ru/news/" htmlUrl="https://kursk.ru/news/"/>
+      <!-- Local aggregator that explicitly offers RSS -->
+      <outline type="rss" text="KurskWeb — RSS" title="KurskWeb RSS" xmlUrl="https://kurskweb.ru/service/rss/" htmlUrl="https://kurskweb.ru/"/>
+    </outline>
+
+  </body>
+</opml>
