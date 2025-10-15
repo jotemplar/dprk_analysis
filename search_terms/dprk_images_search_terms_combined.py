@@ -1,7 +1,7 @@
 """Combined search terms for DPRK image capture - original + themed exploitation searches"""
 
-from dprk_images_search_terms import search_terms_comprehensive
-from dprk_images_search_terms_2 import (
+from search_terms.dprk_images_search_terms import search_terms_comprehensive
+from search_terms.dprk_images_search_terms_2 import (
     theme_construction_exploitation,
     theme_dorms_living,
     theme_handlers,

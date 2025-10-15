@@ -8,12 +8,12 @@ from typing import List, Dict
 from pathlib import Path
 
 # Add project root to path
-sys.path.append(str(Path(__file__).parent))
+sys.path.append(str(Path(__file__).parent.parent.parent))
 
 from database.connection import get_session
 from database.article_models import ArticleSearch, ArticleResult
 from search.serp_web_client import SerpWebClient
-from dprk_images_search_terms_3 import search_packs
+from search_terms.dprk_images_search_terms_3 import search_packs
 from sqlalchemy.exc import IntegrityError
 
 

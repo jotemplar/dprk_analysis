@@ -2,7 +2,7 @@
 
 A comprehensive system for searching, capturing, and analyzing both **images** and **text content** related to North Korean workers and military personnel in Russia, designed for human rights documentation and research purposes.
 
-**Latest Update (v3.1.0)**: Enhanced reporting with comprehensive Excel exports including search term attribution, interactive HTML dashboards combining article and image analysis, and advanced entity consolidation with government/corporate deduplication. Complete article analysis pipeline now processes 381 articles with 68 high-priority findings identified.
+**Latest Update (v3.2.0)**: Major codebase reorganization with clean folder structure. All files moved to logical directories (reports/, search_terms/, tests/, scripts/), updated import paths, and consolidated root directory from 132 files to 15 core files. Enhanced reporting with comprehensive Excel exports including search term attribution, interactive HTML dashboards combining article and image analysis, and advanced entity consolidation with government/corporate deduplication.
 
 ## 🚀 Quick Command Reference
 
@@ -16,22 +16,29 @@ A comprehensive system for searching, capturing, and analyzing both **images** a
 ./run.sh basic   # System health check
 
 # Enhanced Analysis Pipeline (Image Processing)
-python process_missing_llava_parallel.py     # Process images missing LLaVA analysis
-python process_all_gemma12b_parallel.py      # Process all images with Gemma3:12b
-python apply_ensemble_analysis.py            # Apply ensemble combining both models
-python export_to_spreadsheet.py              # Export comprehensive analysis results
+python scripts/image/process_missing_llava_parallel.py     # Process images missing LLaVA analysis
+python scripts/image/process_all_gemma12b_parallel.py      # Process all images with Gemma3:12b
+python scripts/image/apply_ensemble_analysis.py            # Apply ensemble combining both models
+python scripts/reporting/export_to_spreadsheet.py          # Export comprehensive analysis results
 
 # Text Article Processing Pipeline
 python main_article_pipeline.py --status     # Check current article processing status
 python main_article_pipeline.py --full       # Run complete article pipeline (search→scrape→analyze)
-python process_article_searches.py           # Execute search terms from pack 3 (58 queries)
-python process_article_content.py            # Scrape article content (50 concurrent scrapers)
-python process_article_analysis.py           # Analyze articles with Gemma3:12b
+python scripts/article/process_article_searches.py         # Execute search terms from pack 3 (58 queries)
+python scripts/article/process_article_content.py          # Scrape article content (50 concurrent scrapers)
+python scripts/article/process_article_analysis.py         # Analyze articles with Gemma3:12b
+
+# Russian OSINT Pipeline
+./run_russian_pipeline.sh search            # Process Russian search queries (Yandex + Google Russia)
+./run_russian_pipeline.sh export            # Export results to Excel
+./run_russian_pipeline.sh report            # Generate HTML report
+./run_russian_pipeline.sh full              # Run complete Russian OSINT pipeline
+./run_russian_pipeline.sh status            # Check pipeline status
 
 # Reporting and Export
-python generate_article_report.py            # Generate HTML/JSON analysis reports
-python export_articles_to_excel.py           # Export articles with search term attribution
-python serve_dashboard.py                    # Launch interactive dashboard server
+python scripts/reporting/generate_article_report.py        # Generate HTML/JSON analysis reports
+python scripts/reporting/export_articles_to_excel.py       # Export articles with search term attribution
+python scripts/dashboard/serve_dashboard.py                # Launch interactive dashboard server
 
 # Key maintenance
 uv run --no-project python init_database.py  # Reset database
@@ -210,32 +217,60 @@ find captured_data/ -type f -mtime +30 -delete
 
 ```
 DPRK/
-├── capture/               # Screenshot and image capture modules
+├── reports/              # All generated reports (HTML, XLSX, JSON)
+├── search_terms/         # All search term definitions and CSV files
+│   ├── dprk_images_search_terms.py       # Image search terms (pack 1)
+│   ├── dprk_images_search_terms_2.py     # Image search terms (pack 2)
+│   ├── dprk_images_search_terms_3.py     # Article search terms (pack 3)
+│   ├── dprk_images_search_terms_combined.py  # Combined image search terms
+│   └── dprk_osint_queries_with_social_and_portals_v1_3.csv  # Russian OSINT queries
+├── tests/                # All test scripts
+│   └── test_basic.py
+├── scripts/              # Organized processing scripts
+│   ├── image/           # Image pipeline scripts
+│   │   ├── process_missing_llava_parallel.py
+│   │   ├── process_all_gemma12b_parallel.py
+│   │   └── apply_ensemble_analysis.py
+│   ├── article/         # Article pipeline scripts
+│   │   ├── process_article_searches.py
+│   │   ├── process_article_content.py
+│   │   └── process_article_analysis.py
+│   ├── russian/         # Russian OSINT scripts
+│   │   └── process_russian_searches.py
+│   ├── reporting/       # Export and reporting scripts
+│   │   ├── export_to_spreadsheet.py
+│   │   ├── export_articles_to_excel.py
+│   │   ├── export_russian_searches_to_excel.py
+│   │   ├── generate_article_report.py
+│   │   └── generate_russian_search_report.py
+│   └── dashboard/       # Dashboard generation scripts
+│       └── serve_dashboard.py
+├── logs/                 # All log files
+├── docs/                 # Documentation files
+├── capture/              # Screenshot and image capture modules
 │   ├── screenshot_capture.py
 │   └── image_downloader.py
 ├── database/             # Database models and connection
 │   ├── models.py         # Image analysis database models
-│   ├── article_models.py # Article analysis database models (New!)
+│   ├── article_models.py # Article analysis database models
+│   ├── russian_search_models.py  # Russian OSINT database models
 │   └── connection.py
 ├── search/               # Search API clients
-│   ├── serp_image_client.py  # Image search client
-│   └── serp_web_client.py    # Web/article search client (New!)
+│   ├── serp_image_client.py   # Image search client
+│   ├── serp_web_client.py     # Web/article search client
+│   └── serp_russia_client.py  # Russian search client (Yandex/Google Russia)
 ├── utils/                # Utility modules
 │   └── ollama_analyzer.py
 ├── captured_data/        # Storage for captured content
 │   ├── images/
 │   └── screenshots/
-├── dprk_images_search_terms.py    # Image search terms (pack 1)
-├── dprk_images_search_terms_2.py  # Image search terms (pack 2)
-├── dprk_images_search_terms_3.py  # Article search terms (pack 3) (New!)
-├── process_article_searches.py    # Article search processor (New!)
-├── process_article_content.py     # Article content scraper (New!)
-├── process_article_analysis.py    # Article content analyzer (New!)
-├── main_article_pipeline.py       # Article pipeline orchestrator (New!)
+├── main_article_pipeline.py       # Article pipeline orchestrator
 ├── init_database.py      # Database initialization
 ├── main.py              # Main image pipeline
+├── main_with_dedup.py   # Image pipeline with deduplication
+├── run.sh               # Convenience script for image pipeline
+├── run_russian_pipeline.sh  # Convenience script for Russian OSINT pipeline
 ├── .env                 # Configuration (not in git)
-├── DESIGN_DOCUMENT.md   # System design
 ├── README.md            # This file
 └── CHANGELOG.md         # Version history
 ```

@@ -18,7 +18,7 @@ def export_articles_to_excel():
     """Export comprehensive article analysis to Excel"""
 
     session = get_session()
-    output_file = f"dprk_article_analysis_{datetime.now().strftime('%Y%m%d_%H%M%S')}.xlsx"
+    output_file = f"reports/dprk_article_analysis_{datetime.now().strftime('%Y%m%d_%H%M%S')}.xlsx"
 
     print("📊 Exporting article analysis to Excel...")
 

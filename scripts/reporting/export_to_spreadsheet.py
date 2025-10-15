@@ -13,7 +13,7 @@ def export_to_spreadsheet():
 
     session = get_session()
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_file = f"dprk_analysis_export_{timestamp}.xlsx"
+    output_file = f"reports/dprk_analysis_export_{timestamp}.xlsx"
 
     print("="*60)
     print("EXPORTING DPRK IMAGE ANALYSIS TO SPREADSHEET")

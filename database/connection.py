@@ -23,3 +23,7 @@ def get_db() -> Session:
 def get_session() -> Session:
     """Get a new database session"""
     return SessionLocal()
+
+def get_engine():
+    """Get the database engine"""
+    return engine

@@ -29,7 +29,7 @@ def test_search_terms():
     """Test search terms loading"""
     print("\n2. Testing Search Terms...")
     try:
-        from dprk_images_search_terms import search_terms_comprehensive
+        from search_terms.dprk_images_search_terms import search_terms_comprehensive
         print(f"   ✓ Loaded {len(search_terms_comprehensive)} search terms")
 
         # Show sample terms

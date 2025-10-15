@@ -14,9 +14,9 @@ sys.path.append(str(Path(__file__).parent))
 from database.connection import get_session
 from database.article_models import ArticleSearch, ArticleResult, ArticleContent, ArticleAnalysis
 from sqlalchemy import text
-from process_article_searches import ArticleSearchProcessor
-from process_article_content import ArticleContentProcessor
-from process_article_analysis import ArticleAnalysisProcessor
+from scripts.article.process_article_searches import ArticleSearchProcessor
+from scripts.article.process_article_content import ArticleContentProcessor
+from scripts.article.process_article_analysis import ArticleAnalysisProcessor
 
 
 class ArticlePipelineOrchestrator:
@@ -99,7 +99,7 @@ class ArticlePipelineOrchestrator:
 
             if search_limit:
                 # Process specific number of searches
-                from dprk_images_search_terms_3 import search_packs
+                from search_terms.dprk_images_search_terms_3 import search_packs
                 all_terms = []
                 for category, terms in search_packs.items():
                     all_terms.extend([(category, term) for term in terms])
@@ -178,7 +178,7 @@ class ArticlePipelineOrchestrator:
         if phase == 'search':
             processor = ArticleSearchProcessor()
             if kwargs.get('category'):
-                from dprk_images_search_terms_3 import search_packs
+                from search_terms.dprk_images_search_terms_3 import search_packs
                 if kwargs['category'] in search_packs:
                     processor._process_category(
                         kwargs['category'],

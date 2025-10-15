@@ -43,7 +43,7 @@ case "$1" in
         ;;
     basic)
         echo -e "${GREEN}Running basic system tests...${NC}"
-        uv run --no-project python test_basic.py
+        uv run --no-project python tests/test_basic.py
         ;;
     init)
         echo -e "${GREEN}Initializing database...${NC}"

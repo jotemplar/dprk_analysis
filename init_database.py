@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from sqlalchemy import create_engine, text
 from database.models import Base, SearchQuery
 from database.connection import engine, get_session
-from dprk_images_search_terms import search_terms_comprehensive
+from search_terms.dprk_images_search_terms import search_terms_comprehensive
 
 load_dotenv()
 

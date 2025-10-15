@@ -21,7 +21,7 @@ from search.serp_image_client import SerpImageClient
 from capture.screenshot_capture import ScreenshotCapture
 from capture.image_downloader import ImageDownloader
 from utils.ollama_analyzer import OllamaAnalyzer
-from dprk_images_search_terms import search_terms_comprehensive
+from search_terms.dprk_images_search_terms import search_terms_comprehensive
 
 load_dotenv()
 

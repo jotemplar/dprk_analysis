@@ -595,7 +595,7 @@ CONTENT METRICS:
     def _export_report_data(self):
         """Export report data to JSON"""
 
-        output_file = "article_analysis_report.json"
+        output_file = "reports/article_analysis_report.json"
         with open(output_file, 'w') as f:
             json.dump(self.report_data, f, indent=2, default=str)
 
@@ -800,7 +800,7 @@ CONTENT METRICS:
 </body>
 </html>"""
 
-        html_file = "article_analysis_report.html"
+        html_file = "reports/article_analysis_report.html"
         with open(html_file, 'w') as f:
             f.write(html_content)
 
